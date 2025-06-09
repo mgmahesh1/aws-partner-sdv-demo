@@ -38,7 +38,7 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Genymotion Cloud Car
+  name: Genymotion-Cloud-Car
   description: Genymotion Cloud Car - Android Automotive OS 14.0 (arm64)
   tags:
     - aws-partner-sdv
@@ -56,7 +56,7 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: HERE Tour Planning
+  name: HERE-Tour-Planning
   description: Dynamically optimize routes for multiple vehicles
   tags:
     - aws-partner-sdv

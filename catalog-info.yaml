@@ -62,7 +62,7 @@ metadata:
     - aws-partner-sdv
   links:
     - url: https://aws.amazon.com/marketplace/pp/prodview-izb3zaa6bhepo
-      title: HERE Tour Planning
+      title: HERE-Tour-Planning
       icon: dashboard
       type: admin-dashboard
 spec:

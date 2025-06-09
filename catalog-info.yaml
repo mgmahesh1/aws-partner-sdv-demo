@@ -1,0 +1,72 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: virtual-ivi-development-Elektrobit
+  description: Virtual IVI Development for Android by Elektrobit
+  tags:
+    - aws-partner-sdv
+  links:
+    - url: https://aws.amazon.com/marketplace/pp/prodview-cd2wojukd63xg
+      title: Virtual IVI Development
+      icon: dashboard
+      type: admin-dashboard
+spec:
+  type: workbench
+  lifecycle: production
+  owner: guests
+  system: examples
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: vSkipGen
+  description: vSkipGen by Panasonic
+  tags:
+    - aws-partner-sdv
+  links:
+    - url: https://aws.amazon.com/marketplace/pp/prodview-4fafk4r33mqag
+      title: vSkipGen by Panasonic
+      icon: dashboard
+      type: admin-dashboard
+spec:
+  type: workbench
+  lifecycle: production
+  owner: guests
+  system: examples
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Genymotion Cloud Car
+  description: Genymotion Cloud Car - Android Automotive OS 14.0 (arm64)
+  tags:
+    - aws-partner-sdv
+  links:
+    - url: https://aws.amazon.com/marketplace/pp/prodview-llgiuxguridoy
+      title: Genymotion Cloud Car
+      icon: dashboard
+      type: admin-dashboard
+spec:
+  type: workbench
+  lifecycle: production
+  owner: guests
+  system: examples
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: HERE Tour Planning
+  description: Dynamically optimize routes for multiple vehicles
+  tags:
+    - aws-partner-sdv
+  links:
+    - url: https://aws.amazon.com/marketplace/pp/prodview-izb3zaa6bhepo
+      title: HERE Tour Planning
+      icon: dashboard
+      type: admin-dashboard
+spec:
+  type: workbench
+  lifecycle: production
+  owner: guests
+  system: examples
